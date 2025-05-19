@@ -1,0 +1,2 @@
+# powerbi
+KAMPANYALARIN SATIŞ ÜZERİNDEKİ ETKİSİ 
